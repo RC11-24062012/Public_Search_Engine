@@ -10,20 +10,35 @@ https://your-username.github.io/your-repo-name/
 Project Structure Overview (Standardized Format)
 
 ├── index.html                 ← Frontend main page (search interface)
+
 ├── search.js                  ← Frontend logic: loads and renders tags.json
+
 ├── merge_tags.py              ← Admin: merges data from all members
+
 ├── requirements.txt           ← Python dependencies (can be empty)
+
 ├── data/
+
 │   ├── tags.json              ← Main tag file (auto-merged, used by frontend)
+
 │   ├── huanqi/
+
 │   │   ├── tags.json          ← Each member's data entry point
+
 │   │   ├── 001.jpg            ← Images go directly into the user folder
+
 │   │   ├── model.glb          ← Models are also placed here
+
 │   │   └── drawing.pdf        ← PDFs are placed in the same way
+
 │   ├── yutong/
+
 │   └── ...
+
 └── .github/
+
     └── workflows/
+    
         └── deploy.yml         ← Auto-deployment script (GitHub Actions)
 
 
