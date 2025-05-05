@@ -1,0 +1,5817 @@
+{
+  "files": {
+    "2017-8-25-scaffolding-cfa-5-edited.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "thresher",
+          "confidence": "11.84%"
+        },
+        {
+          "tag": "drilling platform",
+          "confidence": "5.53%"
+        },
+        {
+          "tag": "harvester",
+          "confidence": "4.61%"
+        },
+        {
+          "tag": "lumbermill",
+          "confidence": "2.35%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "2.05%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2017-8-25-scaffolding-cfa-5-edited",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1200x800",
+      "last_analyzed": "2025-05-05T22:57:33.517396",
+      "file_size": 1179877
+    },
+    "2024-09-26-173618_1920x924_scrot.png": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "comic book",
+          "confidence": "59.09%"
+        },
+        {
+          "tag": "bookshop",
+          "confidence": "4.09%"
+        },
+        {
+          "tag": "solar dish",
+          "confidence": "2.46%"
+        },
+        {
+          "tag": "cassette",
+          "confidence": "1.66%"
+        },
+        {
+          "tag": "book jacket",
+          "confidence": "0.96%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2024-09-26-173618_1920x924_scrot",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1920x924",
+      "last_analyzed": "2025-05-05T22:57:33.647937",
+      "file_size": 2559534
+    },
+    "2024-11-07-091701_1431x992_scrot.png": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maze",
+          "confidence": "13.96%"
+        },
+        {
+          "tag": "damselfly",
+          "confidence": "3.51%"
+        },
+        {
+          "tag": "bow",
+          "confidence": "3.04%"
+        },
+        {
+          "tag": "reel",
+          "confidence": "1.98%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2024-11-07-091701_1431x992_scrot",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1431x992",
+      "last_analyzed": "2025-05-05T22:57:33.782927",
+      "file_size": 3197494
+    },
+    "daniel_fspy.fspy.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "barbershop",
+          "confidence": "10.80%"
+        },
+        {
+          "tag": "bakery",
+          "confidence": "7.05%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "4.46%"
+        },
+        {
+          "tag": "mailbox",
+          "confidence": "2.61%"
+        },
+        {
+          "tag": "freight car",
+          "confidence": "2.23%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "daniel_fspy.fspy",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "4624x3468",
+      "last_analyzed": "2025-05-05T22:57:34.026719",
+      "file_size": 3251183
+    },
+    "entry_points.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "setuptoolsdistcheckrequirements",
+          "confidence": "3.00%"
+        },
+        {
+          "tag": "setuptoolscommandegginfooverwritearg",
+          "confidence": "3.00%"
+        },
+        {
+          "tag": "setuptoolsdistassertstringlist",
+          "confidence": "2.00%"
+        },
+        {
+          "tag": "setuptoolsdistcheckpackagedata",
+          "confidence": "2.00%"
+        },
+        {
+          "tag": "setuptoolsdistassertbool",
+          "confidence": "2.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "entry_points",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:34.103109",
+      "file_size": 2636
+    },
+    "heatmap\\heatmap.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "heatmap",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:34.954686",
+      "file_size": 3247384
+    },
+    "korean_tree.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "park bench",
+          "confidence": "2.80%"
+        },
+        {
+          "tag": "baboon",
+          "confidence": "2.59%"
+        },
+        {
+          "tag": "worm fence",
+          "confidence": "2.52%"
+        },
+        {
+          "tag": "birdhouse",
+          "confidence": "1.77%"
+        },
+        {
+          "tag": "cheetah",
+          "confidence": "1.62%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "korean_tree",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1200x804",
+      "last_analyzed": "2025-05-05T22:57:34.187196",
+      "file_size": 217634
+    },
+    "LICENSE.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "data",
+          "confidence": "5.41%"
+        },
+        {
+          "tag": "any",
+          "confidence": "2.70%"
+        },
+        {
+          "tag": "inconsistencies",
+          "confidence": "2.70%"
+        },
+        {
+          "tag": "licenses",
+          "confidence": "2.70%"
+        },
+        {
+          "tag": "copyrights",
+          "confidence": "2.70%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "license",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:34.194878",
+      "file_size": 845
+    },
+    "monkey\\monkey.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "suzanne",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "monkey",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "texture",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "monkey",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:34.969799",
+      "file_size": 8378260
+    },
+    "piramid\\piramid.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "piramid",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "scheef",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "test",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "piramid",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.247599",
+      "file_size": 161772
+    },
+    "satellite.jpeg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "wing",
+          "confidence": "12.13%"
+        },
+        {
+          "tag": "seashore",
+          "confidence": "6.17%"
+        },
+        {
+          "tag": "cliff",
+          "confidence": "5.34%"
+        },
+        {
+          "tag": "jigsaw puzzle",
+          "confidence": "3.99%"
+        },
+        {
+          "tag": "alp",
+          "confidence": "2.79%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "satellite",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "3858x4096",
+      "last_analyzed": "2025-05-05T22:57:34.440332",
+      "file_size": 2891287
+    },
+    "suzanne\\suzanne.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "monkey",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "suzanne",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.272651",
+      "file_size": 69624
+    },
+    "Telemetry_data_architecture_workshop3.png": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "garbage truck",
+          "confidence": "5.61%"
+        },
+        {
+          "tag": "solar dish",
+          "confidence": "3.94%"
+        },
+        {
+          "tag": "racer",
+          "confidence": "3.00%"
+        },
+        {
+          "tag": "jeep",
+          "confidence": "2.53%"
+        },
+        {
+          "tag": "tow truck",
+          "confidence": "2.47%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "telemetry_data_architecture_workshop3",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "1918x919",
+      "last_analyzed": "2025-05-05T22:57:34.812252",
+      "file_size": 2650949
+    },
+    "test.png": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "comic book",
+          "confidence": "14.42%"
+        },
+        {
+          "tag": "umbrella",
+          "confidence": "3.74%"
+        },
+        {
+          "tag": "padlock",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "quilt",
+          "confidence": "2.21%"
+        },
+        {
+          "tag": "shoe shop",
+          "confidence": "1.90%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "test",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1913x920",
+      "last_analyzed": "2025-05-05T22:57:34.938271",
+      "file_size": 2709314
+    },
+    "testing\\testing.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "piramid",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "scheef",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "test",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "testing",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.272651",
+      "file_size": 161772
+    },
+    "top_level.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "graphviz",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "top_level",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:34.954686",
+      "file_size": 9
+    },
+    "totem\\totem.glb": {
+      "type": "3d",
+      "tags": [
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "3d",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "totem",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.303811",
+      "file_size": 6876568
+    },
+    "monkey\\monkey.png": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "comic book",
+          "confidence": "14.42%"
+        },
+        {
+          "tag": "umbrella",
+          "confidence": "3.74%"
+        },
+        {
+          "tag": "padlock",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "quilt",
+          "confidence": "2.21%"
+        },
+        {
+          "tag": "shoe shop",
+          "confidence": "1.90%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "monkey",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1913x920",
+      "last_analyzed": "2025-05-05T22:57:35.104702",
+      "file_size": 2709314
+    },
+    "monkey\\monkey.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "suzanne",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "monkey",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "texture",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "monkey",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.104702",
+      "file_size": 23
+    },
+    "monkey\\thumbnail.png": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "comic book",
+          "confidence": "14.42%"
+        },
+        {
+          "tag": "umbrella",
+          "confidence": "3.74%"
+        },
+        {
+          "tag": "padlock",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "quilt",
+          "confidence": "2.21%"
+        },
+        {
+          "tag": "shoe shop",
+          "confidence": "1.90%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "thumbnail",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "1913x920",
+      "last_analyzed": "2025-05-05T22:57:35.247599",
+      "file_size": 2709314
+    },
+    "piramid\\piramid.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "piramid",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "scheef",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "test",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "piramid",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.247599",
+      "file_size": 20
+    },
+    "suzanne\\suzanne.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "monkey",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "suzanne",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.272651",
+      "file_size": 7
+    },
+    "testing\\testing.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "piramid",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "scheef",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "test",
+          "confidence": "33.33%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "testing",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-05T22:57:35.272651",
+      "file_size": 20
+    },
+    "00001.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "11.10%"
+        },
+        {
+          "tag": "folding chair",
+          "confidence": "3.74%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "3.73%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "2.83%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "2.76%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00001",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.380321",
+      "file_size": 10161
+    },
+    "00002.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "plate rack",
+          "confidence": "21.32%"
+        },
+        {
+          "tag": "chiffonier",
+          "confidence": "15.87%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "3.89%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "3.66%"
+        },
+        {
+          "tag": "file",
+          "confidence": "2.66%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00002",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.446371",
+      "file_size": 10167
+    },
+    "00003.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "wardrobe",
+          "confidence": "16.71%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "16.10%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "7.32%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "3.54%"
+        },
+        {
+          "tag": "china cabinet",
+          "confidence": "0.63%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00003",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.496881",
+      "file_size": 9922
+    },
+    "00004.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "home theater",
+          "confidence": "14.32%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "7.69%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "7.49%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "7.37%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00004",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.548854",
+      "file_size": 17545
+    },
+    "00005.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "fire screen",
+          "confidence": "41.39%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "7.52%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "5.90%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "5.63%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "2.34%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00005",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.598590",
+      "file_size": 14807
+    },
+    "00006.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "22.51%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "4.16%"
+        },
+        {
+          "tag": "thatch",
+          "confidence": "3.51%"
+        },
+        {
+          "tag": "greenhouse",
+          "confidence": "3.05%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "2.97%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00006",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.649985",
+      "file_size": 18804
+    },
+    "00007.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "medicine chest",
+          "confidence": "46.73%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "8.79%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "4.39%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "2.41%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "1.08%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00007",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.702086",
+      "file_size": 16632
+    },
+    "00008.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "4.92%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "4.46%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.27%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "3.68%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "2.77%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00008",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.747395",
+      "file_size": 12478
+    },
+    "00009.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "mobile home",
+          "confidence": "36.30%"
+        },
+        {
+          "tag": "boathouse",
+          "confidence": "2.00%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "1.58%"
+        },
+        {
+          "tag": "window screen",
+          "confidence": "0.97%"
+        },
+        {
+          "tag": "worm fence",
+          "confidence": "0.75%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00009",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.791823",
+      "file_size": 15267
+    },
+    "00010.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "15.70%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "9.97%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "3.39%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "3.25%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "2.85%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00010",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.823270",
+      "file_size": 12331
+    },
+    "00011.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "home theater",
+          "confidence": "9.31%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "6.13%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "4.32%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "4.12%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "4.08%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00011",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.878560",
+      "file_size": 11204
+    },
+    "00012.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bookcase",
+          "confidence": "29.30%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "5.20%"
+        },
+        {
+          "tag": "tobacco shop",
+          "confidence": "3.95%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "3.20%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "2.96%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00012",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.925624",
+      "file_size": 15538
+    },
+    "00013.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "34.57%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "14.68%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "6.16%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "2.23%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "1.57%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00013",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:35.969476",
+      "file_size": 12853
+    },
+    "00014.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "tub",
+          "confidence": "21.18%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "14.41%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "4.65%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "3.46%"
+        },
+        {
+          "tag": "swimming trunks",
+          "confidence": "1.63%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00014",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.008076",
+      "file_size": 17639
+    },
+    "00015.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bathtub",
+          "confidence": "18.67%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "15.24%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "6.84%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "2.59%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00015",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.055245",
+      "file_size": 11942
+    },
+    "00016.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "19.20%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "11.31%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "5.78%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "2.08%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "1.39%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00016",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.094896",
+      "file_size": 12388
+    },
+    "00017.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "shoji",
+          "confidence": "14.01%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "11.59%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "7.07%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "5.72%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "2.05%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00017",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.145125",
+      "file_size": 8332
+    },
+    "00018.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "plate rack",
+          "confidence": "15.86%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "14.44%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "8.92%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "1.75%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00018",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.188657",
+      "file_size": 12753
+    },
+    "00019.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "17.72%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "6.58%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "2.95%"
+        },
+        {
+          "tag": "bell cote",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "planetarium",
+          "confidence": "2.04%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00019",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.228509",
+      "file_size": 12650
+    },
+    "00020.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "16.21%"
+        },
+        {
+          "tag": "stone wall",
+          "confidence": "12.57%"
+        },
+        {
+          "tag": "lakeside",
+          "confidence": "5.54%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "2.63%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "1.81%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00020",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.275740",
+      "file_size": 21966
+    },
+    "00021.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "46.73%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "3.70%"
+        },
+        {
+          "tag": "window screen",
+          "confidence": "0.64%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "0.45%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00021",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.320891",
+      "file_size": 21886
+    },
+    "00022.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "studio couch",
+          "confidence": "11.26%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "11.05%"
+        },
+        {
+          "tag": "quilt",
+          "confidence": "7.50%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "4.68%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "3.89%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00022",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.376401",
+      "file_size": 11125
+    },
+    "00023.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "washbasin",
+          "confidence": "15.37%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "10.73%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "4.24%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "3.25%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "3.01%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00023",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.420155",
+      "file_size": 11154
+    },
+    "00024.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stove",
+          "confidence": "21.99%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "10.90%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "10.37%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "8.76%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "3.94%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00024",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.466035",
+      "file_size": 12740
+    },
+    "00025.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "42.76%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "12.76%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "2.12%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "1.57%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "1.39%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00025",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.512893",
+      "file_size": 13322
+    },
+    "00026.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "50.98%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "2.15%"
+        },
+        {
+          "tag": "apiary",
+          "confidence": "1.90%"
+        },
+        {
+          "tag": "scale",
+          "confidence": "1.40%"
+        },
+        {
+          "tag": "altar",
+          "confidence": "1.38%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00026",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.558898",
+      "file_size": 17846
+    },
+    "00027.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stove",
+          "confidence": "46.82%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "7.36%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "3.17%"
+        },
+        {
+          "tag": "rotisserie",
+          "confidence": "1.64%"
+        },
+        {
+          "tag": "refrigerator",
+          "confidence": "1.59%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00027",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.605505",
+      "file_size": 13277
+    },
+    "00028.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "solar dish",
+          "confidence": "34.76%"
+        },
+        {
+          "tag": "boathouse",
+          "confidence": "7.53%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "3.97%"
+        },
+        {
+          "tag": "lakeside",
+          "confidence": "1.36%"
+        },
+        {
+          "tag": "guillotine",
+          "confidence": "1.21%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00028",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.654789",
+      "file_size": 16488
+    },
+    "00029.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "tub",
+          "confidence": "26.06%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "21.82%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "4.44%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "4.28%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "2.57%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00029",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.693341",
+      "file_size": 10616
+    },
+    "00030.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "8.50%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "8.36%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "2.74%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "1.91%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "1.69%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00030",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.740993",
+      "file_size": 14896
+    },
+    "00031.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "21.82%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "9.47%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "6.71%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "3.71%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "3.45%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00031",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.787927",
+      "file_size": 12050
+    },
+    "00032.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "27.18%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "11.30%"
+        },
+        {
+          "tag": "thatch",
+          "confidence": "7.14%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "1.88%"
+        },
+        {
+          "tag": "tile roof",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00032",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.843394",
+      "file_size": 16794
+    },
+    "00033.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bannister",
+          "confidence": "9.68%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "3.79%"
+        },
+        {
+          "tag": "four-poster",
+          "confidence": "3.75%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "1.96%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "1.75%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00033",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.899306",
+      "file_size": 14172
+    },
+    "00034.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "studio couch",
+          "confidence": "9.11%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "8.42%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "4.58%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "3.89%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "3.42%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00034",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.954496",
+      "file_size": 13321
+    },
+    "00035.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bathtub",
+          "confidence": "7.40%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "5.63%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "5.10%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "4.95%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "4.32%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00035",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:36.995104",
+      "file_size": 11194
+    },
+    "00036.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "8.63%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "6.00%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "2.79%"
+        },
+        {
+          "tag": "rocking chair",
+          "confidence": "2.37%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "2.32%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00036",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.042466",
+      "file_size": 16326
+    },
+    "00037.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bathtub",
+          "confidence": "21.00%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "17.77%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "16.93%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "2.55%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "1.72%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00037",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.103424",
+      "file_size": 9854
+    },
+    "00038.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "palace",
+          "confidence": "25.16%"
+        },
+        {
+          "tag": "library",
+          "confidence": "6.38%"
+        },
+        {
+          "tag": "picket fence",
+          "confidence": "1.74%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "1.47%"
+        },
+        {
+          "tag": "dome",
+          "confidence": "1.19%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00038",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.149479",
+      "file_size": 17512
+    },
+    "00039.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "16.68%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "8.62%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "7.39%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "3.78%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "1.82%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00039",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.195525",
+      "file_size": 17148
+    },
+    "00040.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "washbasin",
+          "confidence": "11.47%"
+        },
+        {
+          "tag": "toilet seat",
+          "confidence": "8.95%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "3.95%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "3.72%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "3.72%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00040",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.237798",
+      "file_size": 10679
+    },
+    "00041.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "19.10%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "4.12%"
+        },
+        {
+          "tag": "table lamp",
+          "confidence": "3.78%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "2.93%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "2.15%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00041",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.282589",
+      "file_size": 13551
+    },
+    "00042.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "washbasin",
+          "confidence": "17.97%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "10.07%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.31%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "3.98%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "2.99%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00042",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.326520",
+      "file_size": 7816
+    },
+    "00043.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "24.21%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "19.92%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "5.09%"
+        },
+        {
+          "tag": "fountain",
+          "confidence": "1.46%"
+        },
+        {
+          "tag": "maze",
+          "confidence": "1.34%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00043",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.373099",
+      "file_size": 18452
+    },
+    "00044.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "chiffonier",
+          "confidence": "23.04%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "5.03%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "3.39%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "3.19%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "2.64%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00044",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.414858",
+      "file_size": 8700
+    },
+    "00045.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "palace",
+          "confidence": "6.02%"
+        },
+        {
+          "tag": "castle",
+          "confidence": "2.57%"
+        },
+        {
+          "tag": "coil",
+          "confidence": "2.36%"
+        },
+        {
+          "tag": "greenhouse",
+          "confidence": "2.27%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "2.07%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00045",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.450612",
+      "file_size": 21845
+    },
+    "00046.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "plate rack",
+          "confidence": "11.72%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "9.24%"
+        },
+        {
+          "tag": "chiffonier",
+          "confidence": "7.97%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "5.47%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "5.04%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00046",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.497931",
+      "file_size": 13298
+    },
+    "00047.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "8.57%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "7.62%"
+        },
+        {
+          "tag": "china cabinet",
+          "confidence": "7.11%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "4.89%"
+        },
+        {
+          "tag": "desk",
+          "confidence": "3.67%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00047",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.548561",
+      "file_size": 11332
+    },
+    "00048.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "11.56%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "10.43%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "9.02%"
+        },
+        {
+          "tag": "four-poster",
+          "confidence": "6.73%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "2.82%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00048",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.595057",
+      "file_size": 14480
+    },
+    "00049.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bookcase",
+          "confidence": "17.57%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "5.96%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.36%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "2.44%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "2.34%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00049",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.638982",
+      "file_size": 8291
+    },
+    "00050.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "17.12%"
+        },
+        {
+          "tag": "desk",
+          "confidence": "6.20%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "6.05%"
+        },
+        {
+          "tag": "four-poster",
+          "confidence": "5.33%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "4.12%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00050",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.693093",
+      "file_size": 14135
+    },
+    "00051.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "33.98%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "6.49%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "5.53%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "4.76%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00051",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.738937",
+      "file_size": 11159
+    },
+    "00052.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "30.42%"
+        },
+        {
+          "tag": "pot",
+          "confidence": "16.46%"
+        },
+        {
+          "tag": "greenhouse",
+          "confidence": "2.47%"
+        },
+        {
+          "tag": "lakeside",
+          "confidence": "1.34%"
+        },
+        {
+          "tag": "caldron",
+          "confidence": "0.94%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00052",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.774112",
+      "file_size": 21331
+    },
+    "00053.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "plate rack",
+          "confidence": "19.22%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "9.45%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "5.17%"
+        },
+        {
+          "tag": "washer",
+          "confidence": "2.59%"
+        },
+        {
+          "tag": "chiffonier",
+          "confidence": "2.29%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00053",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.815736",
+      "file_size": 14100
+    },
+    "00054.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "fire screen",
+          "confidence": "6.88%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "5.38%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.14%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "3.60%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "2.31%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00054",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.862613",
+      "file_size": 9690
+    },
+    "00055.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "7.00%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "6.41%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "5.47%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.78%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "3.12%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00055",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.909745",
+      "file_size": 10812
+    },
+    "00056.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "washbasin",
+          "confidence": "13.34%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "12.61%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "4.79%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "3.82%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "2.84%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00056",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:37.952202",
+      "file_size": 16136
+    },
+    "00057.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "14.20%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "10.26%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "5.12%"
+        },
+        {
+          "tag": "potter's wheel",
+          "confidence": "3.28%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "3.14%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00057",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.002533",
+      "file_size": 12724
+    },
+    "00058.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "restaurant",
+          "confidence": "18.71%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "8.56%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "3.49%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "1.60%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "1.43%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00058",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.048504",
+      "file_size": 14157
+    },
+    "00059.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "24.23%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "13.86%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "7.42%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "table lamp",
+          "confidence": "1.80%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00059",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.094910",
+      "file_size": 10167
+    },
+    "00060.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "palace",
+          "confidence": "14.32%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "5.80%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "1.85%"
+        },
+        {
+          "tag": "prison",
+          "confidence": "1.47%"
+        },
+        {
+          "tag": "library",
+          "confidence": "1.37%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00060",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.144875",
+      "file_size": 17652
+    },
+    "00061.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "mobile home",
+          "confidence": "20.77%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "7.02%"
+        },
+        {
+          "tag": "window screen",
+          "confidence": "2.75%"
+        },
+        {
+          "tag": "palace",
+          "confidence": "1.81%"
+        },
+        {
+          "tag": "library",
+          "confidence": "1.55%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00061",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.192589",
+      "file_size": 14726
+    },
+    "00062.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "tub",
+          "confidence": "30.65%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "24.21%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "4.45%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "1.40%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00062",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.240700",
+      "file_size": 8539
+    },
+    "00063.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "7.84%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "7.73%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "6.46%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "4.57%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "2.26%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00063",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.285600",
+      "file_size": 10875
+    },
+    "00064.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "medicine chest",
+          "confidence": "19.11%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "16.70%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "6.60%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "4.15%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "2.62%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00064",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.330630",
+      "file_size": 11700
+    },
+    "00065.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "medicine chest",
+          "confidence": "16.79%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "10.82%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "3.61%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "3.30%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "2.33%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00065",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.375549",
+      "file_size": 10177
+    },
+    "00066.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "entertainment center",
+          "confidence": "35.27%"
+        },
+        {
+          "tag": "rotisserie",
+          "confidence": "5.83%"
+        },
+        {
+          "tag": "pool table",
+          "confidence": "4.50%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "2.23%"
+        },
+        {
+          "tag": "tobacco shop",
+          "confidence": "1.47%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00066",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.422630",
+      "file_size": 16133
+    },
+    "00067.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "quilt",
+          "confidence": "36.86%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "4.20%"
+        },
+        {
+          "tag": "four-poster",
+          "confidence": "4.15%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "1.58%"
+        },
+        {
+          "tag": "table lamp",
+          "confidence": "0.79%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00067",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.470078",
+      "file_size": 12356
+    },
+    "00068.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "worm fence",
+          "confidence": "5.46%"
+        },
+        {
+          "tag": "cardoon",
+          "confidence": "4.11%"
+        },
+        {
+          "tag": "picket fence",
+          "confidence": "3.71%"
+        },
+        {
+          "tag": "pot",
+          "confidence": "3.16%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "2.25%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00068",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.519497",
+      "file_size": 20695
+    },
+    "00069.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "11.50%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "7.76%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "4.74%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "4.40%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "2.84%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00069",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.565712",
+      "file_size": 11506
+    },
+    "00070.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bathtub",
+          "confidence": "17.59%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "9.45%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "6.55%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "2.57%"
+        },
+        {
+          "tag": "prison",
+          "confidence": "2.48%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00070",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.610635",
+      "file_size": 11000
+    },
+    "00071.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "palace",
+          "confidence": "12.30%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "5.48%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "4.22%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "4.03%"
+        },
+        {
+          "tag": "church",
+          "confidence": "2.83%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00071",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.658478",
+      "file_size": 17611
+    },
+    "00072.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bathtub",
+          "confidence": "9.15%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "6.28%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "5.95%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "4.29%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "2.65%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00072",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.695935",
+      "file_size": 7003
+    },
+    "00073.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "fire screen",
+          "confidence": "21.94%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "6.99%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "5.99%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "5.52%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "2.70%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00073",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.739600",
+      "file_size": 13047
+    },
+    "00074.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "25.58%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "5.25%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "5.04%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "3.84%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00074",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.772300",
+      "file_size": 12271
+    },
+    "00075.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "tub",
+          "confidence": "18.96%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "13.47%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "12.54%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "8.14%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "5.64%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00075",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.820349",
+      "file_size": 10179
+    },
+    "00076.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "11.53%"
+        },
+        {
+          "tag": "greenhouse",
+          "confidence": "8.08%"
+        },
+        {
+          "tag": "pot",
+          "confidence": "7.14%"
+        },
+        {
+          "tag": "maze",
+          "confidence": "5.86%"
+        },
+        {
+          "tag": "thatch",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00076",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.866350",
+      "file_size": 20201
+    },
+    "00077.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "medicine chest",
+          "confidence": "30.85%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "10.25%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "3.34%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "3.23%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "2.27%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00077",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.918465",
+      "file_size": 12479
+    },
+    "00078.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "china cabinet",
+          "confidence": "15.13%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "7.34%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "4.84%"
+        },
+        {
+          "tag": "chiffonier",
+          "confidence": "3.25%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "2.59%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00078",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:38.962508",
+      "file_size": 11721
+    },
+    "00079.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "restaurant",
+          "confidence": "51.87%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "2.24%"
+        },
+        {
+          "tag": "vault",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "church",
+          "confidence": "1.52%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "1.43%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00079",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.018585",
+      "file_size": 15412
+    },
+    "00080.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "studio couch",
+          "confidence": "43.03%"
+        },
+        {
+          "tag": "four-poster",
+          "confidence": "2.19%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "1.57%"
+        },
+        {
+          "tag": "shoji",
+          "confidence": "1.40%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "0.78%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00080",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.079373",
+      "file_size": 13471
+    },
+    "00081.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "15.15%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "10.57%"
+        },
+        {
+          "tag": "window screen",
+          "confidence": "2.70%"
+        },
+        {
+          "tag": "china cabinet",
+          "confidence": "1.82%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "1.65%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00081",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.135477",
+      "file_size": 16129
+    },
+    "00082.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "patio",
+          "confidence": "27.52%"
+        },
+        {
+          "tag": "bannister",
+          "confidence": "9.07%"
+        },
+        {
+          "tag": "mobile home",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "planetarium",
+          "confidence": "2.01%"
+        },
+        {
+          "tag": "monastery",
+          "confidence": "1.80%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00082",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.173964",
+      "file_size": 17127
+    },
+    "00083.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "7.78%"
+        },
+        {
+          "tag": "file",
+          "confidence": "5.38%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "4.74%"
+        },
+        {
+          "tag": "chiffonier",
+          "confidence": "4.02%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "3.91%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00083",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.223993",
+      "file_size": 11654
+    },
+    "00084.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "entertainment center",
+          "confidence": "27.17%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "11.50%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "9.27%"
+        },
+        {
+          "tag": "bookcase",
+          "confidence": "4.24%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "3.25%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00084",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.255644",
+      "file_size": 12569
+    },
+    "00085.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "medicine chest",
+          "confidence": "17.62%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "8.69%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "6.57%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "4.84%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "4.25%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00085",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.303640",
+      "file_size": 9234
+    },
+    "00086.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "mobile home",
+          "confidence": "38.26%"
+        },
+        {
+          "tag": "boathouse",
+          "confidence": "3.24%"
+        },
+        {
+          "tag": "patio",
+          "confidence": "2.57%"
+        },
+        {
+          "tag": "moving van",
+          "confidence": "0.65%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "0.60%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00086",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.354221",
+      "file_size": 17752
+    },
+    "00087.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "studio couch",
+          "confidence": "16.65%"
+        },
+        {
+          "tag": "home theater",
+          "confidence": "6.39%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "6.38%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "5.53%"
+        },
+        {
+          "tag": "four-poster",
+          "confidence": "2.40%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00087",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.393668",
+      "file_size": 14184
+    },
+    "00088.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "washer",
+          "confidence": "6.84%"
+        },
+        {
+          "tag": "dalmatian",
+          "confidence": "4.65%"
+        },
+        {
+          "tag": "Brittany spaniel",
+          "confidence": "4.24%"
+        },
+        {
+          "tag": "German short-haired pointer",
+          "confidence": "2.89%"
+        },
+        {
+          "tag": "Welsh springer spaniel",
+          "confidence": "2.57%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00088",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.440564",
+      "file_size": 11965
+    },
+    "00089.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "7.81%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "5.82%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "5.37%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "5.36%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "3.25%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00089",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.471829",
+      "file_size": 9237
+    },
+    "00090.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "plate rack",
+          "confidence": "45.94%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "9.68%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "6.73%"
+        },
+        {
+          "tag": "china cabinet",
+          "confidence": "2.29%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "2.23%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00090",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.519203",
+      "file_size": 12722
+    },
+    "00091.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "wardrobe",
+          "confidence": "8.07%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "6.82%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "6.73%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "5.63%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "3.37%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00091",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.568945",
+      "file_size": 12442
+    },
+    "00092.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "6.25%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "5.57%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "5.01%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "3.12%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "2.90%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00092",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.608659",
+      "file_size": 12551
+    },
+    "00093.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "microwave",
+          "confidence": "22.58%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "8.16%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "3.70%"
+        },
+        {
+          "tag": "stove",
+          "confidence": "3.66%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "2.40%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00093",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.639899",
+      "file_size": 10241
+    },
+    "00094.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "tub",
+          "confidence": "11.40%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "6.61%"
+        },
+        {
+          "tag": "restaurant",
+          "confidence": "6.00%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "5.37%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "3.22%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00094",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.694641",
+      "file_size": 13742
+    },
+    "00095.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "medicine chest",
+          "confidence": "17.07%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "7.08%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "4.61%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "4.10%"
+        },
+        {
+          "tag": "dishwasher",
+          "confidence": "2.81%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00095",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.734270",
+      "file_size": 14800
+    },
+    "00096.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "33.89%"
+        },
+        {
+          "tag": "folding chair",
+          "confidence": "4.55%"
+        },
+        {
+          "tag": "rocking chair",
+          "confidence": "2.91%"
+        },
+        {
+          "tag": "china cabinet",
+          "confidence": "1.88%"
+        },
+        {
+          "tag": "sliding door",
+          "confidence": "1.84%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00096",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.792242",
+      "file_size": 12191
+    },
+    "00097.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bathtub",
+          "confidence": "26.79%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "19.00%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "9.96%"
+        },
+        {
+          "tag": "wardrobe",
+          "confidence": "4.89%"
+        },
+        {
+          "tag": "medicine chest",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00097",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.831304",
+      "file_size": 7863
+    },
+    "00098.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "7.72%"
+        },
+        {
+          "tag": "plate rack",
+          "confidence": "7.60%"
+        },
+        {
+          "tag": "dining table",
+          "confidence": "6.54%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "5.98%"
+        },
+        {
+          "tag": "microwave",
+          "confidence": "5.53%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00098",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.881046",
+      "file_size": 11930
+    },
+    "00099.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "window shade",
+          "confidence": "14.89%"
+        },
+        {
+          "tag": "studio couch",
+          "confidence": "4.88%"
+        },
+        {
+          "tag": "bathtub",
+          "confidence": "4.36%"
+        },
+        {
+          "tag": "tub",
+          "confidence": "3.95%"
+        },
+        {
+          "tag": "washbasin",
+          "confidence": "3.65%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00099",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.922560",
+      "file_size": 9946
+    },
+    "00100.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dining table",
+          "confidence": "41.35%"
+        },
+        {
+          "tag": "window shade",
+          "confidence": "2.46%"
+        },
+        {
+          "tag": "china cabinet",
+          "confidence": "1.55%"
+        },
+        {
+          "tag": "entertainment center",
+          "confidence": "0.88%"
+        },
+        {
+          "tag": "fire screen",
+          "confidence": "0.82%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "00100",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "256x256",
+      "last_analyzed": "2025-05-05T22:57:39.954191",
+      "file_size": 14024
+    }
+  }
+}
