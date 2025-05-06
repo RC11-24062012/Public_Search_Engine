@@ -4,7 +4,7 @@ RC11 Public Search Engine (2025)
 This is the open-source collaborative search engine platform for Bartlett RC11, showcasing resources uploaded by members including images, texts, models, etc. It supports tag-based search, categorized browsing, and automatic deployment.
 
 Online Access:  
-https://your-username.github.io/your-repo-name/
+[https://your-username.github.io/your-repo-name/](https://rc11-24062012.github.io/Public_Search_Engine/)
 
 
 Project Structure Overview (Standardized Format)
