@@ -1,4 +1,4 @@
-# Public_Search_Engine
+# Mishika_Hirwani
 RC11 Public Search Engine (2025)
 
 This is the open-source collaborative search engine platform for Bartlett RC11, showcasing resources uploaded by members including images, texts, models, etc. It supports tag-based search, categorized browsing, and automatic deployment.
