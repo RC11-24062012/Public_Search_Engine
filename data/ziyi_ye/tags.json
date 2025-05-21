@@ -1,0 +1,5393 @@
+{
+  "files": {
+    "gesture_1.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "gesture_1",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-13T08:38:23.592008",
+      "file_size": 1911
+    },
+    "gesture_2.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "that",
+          "confidence": "2.48%"
+        },
+        {
+          "tag": "bodily",
+          "confidence": "1.24%"
+        },
+        {
+          "tag": "most",
+          "confidence": "1.24%"
+        },
+        {
+          "tag": "reclining",
+          "confidence": "1.24%"
+        },
+        {
+          "tag": "lines",
+          "confidence": "1.24%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "gesture_2",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-13T08:38:23.604117",
+      "file_size": 1820
+    },
+    "gesture_3.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "that",
+          "confidence": "4.05%"
+        },
+        {
+          "tag": "movement",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "emotional",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "from",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "design",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "gesture_3",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-13T08:38:23.614832",
+      "file_size": 1569
+    },
+    "gesture_4.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "open",
+          "confidence": "1.68%"
+        },
+        {
+          "tag": "that",
+          "confidence": "1.68%"
+        },
+        {
+          "tag": "bodily",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "expressions",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "most",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "gesture_4",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-13T08:38:23.629093",
+      "file_size": 1823
+    },
+    "gesture_5.txt": {
+      "type": "text",
+      "tags": [
+        {
+          "tag": "sense",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "contrapposto",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "between",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "that",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "inspiration",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "text",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "gesture_5",
+          "confidence": "100.00%"
+        }
+      ],
+      "last_analyzed": "2025-05-13T08:38:23.631092",
+      "file_size": 1853
+    },
+    "img4_0000.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "cardigan",
+          "confidence": "19.41%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "10.95%"
+        },
+        {
+          "tag": "stole",
+          "confidence": "7.35%"
+        },
+        {
+          "tag": "wool",
+          "confidence": "6.78%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "4.18%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0000",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x711",
+      "last_analyzed": "2025-05-13T08:38:25.699332",
+      "file_size": 21422
+    },
+    "img4_0001.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "ladle",
+          "confidence": "6.39%"
+        },
+        {
+          "tag": "purse",
+          "confidence": "5.00%"
+        },
+        {
+          "tag": "necklace",
+          "confidence": "4.13%"
+        },
+        {
+          "tag": "mailbag",
+          "confidence": "3.23%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "3.16%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0001",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x832",
+      "last_analyzed": "2025-05-13T08:38:25.926183",
+      "file_size": 36911
+    },
+    "img4_0002.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "balance beam",
+          "confidence": "13.71%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "11.73%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "8.32%"
+        },
+        {
+          "tag": "parachute",
+          "confidence": "3.50%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "2.44%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0002",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "474x474",
+      "last_analyzed": "2025-05-13T08:38:26.100787",
+      "file_size": 22129
+    },
+    "img4_0003.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "10.79%"
+        },
+        {
+          "tag": "neck brace",
+          "confidence": "7.34%"
+        },
+        {
+          "tag": "horizontal bar",
+          "confidence": "4.10%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "3.37%"
+        },
+        {
+          "tag": "breastplate",
+          "confidence": "2.81%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0003",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x314",
+      "last_analyzed": "2025-05-13T08:38:26.267344",
+      "file_size": 11502
+    },
+    "img4_0004.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bikini",
+          "confidence": "10.10%"
+        },
+        {
+          "tag": "pickelhaube",
+          "confidence": "6.37%"
+        },
+        {
+          "tag": "poncho",
+          "confidence": "2.79%"
+        },
+        {
+          "tag": "cuirass",
+          "confidence": "2.65%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "1.66%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0004",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "444x700",
+      "last_analyzed": "2025-05-13T08:38:26.469802",
+      "file_size": 25668
+    },
+    "img4_0005.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "rock python",
+          "confidence": "39.56%"
+        },
+        {
+          "tag": "boa constrictor",
+          "confidence": "7.63%"
+        },
+        {
+          "tag": "night snake",
+          "confidence": "7.42%"
+        },
+        {
+          "tag": "hognose snake",
+          "confidence": "3.94%"
+        },
+        {
+          "tag": "horned viper",
+          "confidence": "3.73%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0005",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "474x711",
+      "last_analyzed": "2025-05-13T08:38:26.654908",
+      "file_size": 42984
+    },
+    "img4_0006.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "9.94%"
+        },
+        {
+          "tag": "gown",
+          "confidence": "5.03%"
+        },
+        {
+          "tag": "dumbbell",
+          "confidence": "2.64%"
+        },
+        {
+          "tag": "sarong",
+          "confidence": "2.37%"
+        },
+        {
+          "tag": "cloak",
+          "confidence": "2.28%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0006",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "473x592",
+      "last_analyzed": "2025-05-13T08:38:26.827309",
+      "file_size": 26447
+    },
+    "img4_0007.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "swimming trunks",
+          "confidence": "5.77%"
+        },
+        {
+          "tag": "bow",
+          "confidence": "5.13%"
+        },
+        {
+          "tag": "volleyball",
+          "confidence": "3.04%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "3.02%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "2.18%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0007",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x842",
+      "last_analyzed": "2025-05-13T08:38:27.024721",
+      "file_size": 44621
+    },
+    "img4_0008.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "horizontal bar",
+          "confidence": "16.90%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "15.43%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "8.29%"
+        },
+        {
+          "tag": "parallel bars",
+          "confidence": "3.69%"
+        },
+        {
+          "tag": "dumbbell",
+          "confidence": "2.60%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0008",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "474x467",
+      "last_analyzed": "2025-05-13T08:38:27.180410",
+      "file_size": 21353
+    },
+    "img4_0009.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "indri",
+          "confidence": "6.45%"
+        },
+        {
+          "tag": "capuchin",
+          "confidence": "3.62%"
+        },
+        {
+          "tag": "patas",
+          "confidence": "3.00%"
+        },
+        {
+          "tag": "chimpanzee",
+          "confidence": "2.04%"
+        },
+        {
+          "tag": "hook",
+          "confidence": "1.65%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0009",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "326x407",
+      "last_analyzed": "2025-05-13T08:38:27.349746",
+      "file_size": 19765
+    },
+    "img4_0010.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maypole",
+          "confidence": "18.14%"
+        },
+        {
+          "tag": "swab",
+          "confidence": "5.83%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "5.60%"
+        },
+        {
+          "tag": "broom",
+          "confidence": "5.16%"
+        },
+        {
+          "tag": "toyshop",
+          "confidence": "1.69%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0010",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "360x640",
+      "last_analyzed": "2025-05-13T08:38:27.536111",
+      "file_size": 44676
+    },
+    "img4_0011.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "10.40%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "3.84%"
+        },
+        {
+          "tag": "eel",
+          "confidence": "3.42%"
+        },
+        {
+          "tag": "bathing cap",
+          "confidence": "2.33%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "1.95%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0011",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "454x788",
+      "last_analyzed": "2025-05-13T08:38:27.841976",
+      "file_size": 51643
+    },
+    "img4_0012.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bikini",
+          "confidence": "37.31%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "6.20%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "3.79%"
+        },
+        {
+          "tag": "prison",
+          "confidence": "2.52%"
+        },
+        {
+          "tag": "brassiere",
+          "confidence": "2.45%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0012",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x578",
+      "last_analyzed": "2025-05-13T08:38:28.014110",
+      "file_size": 49546
+    },
+    "img4_0013.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "21.90%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "8.92%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "7.37%"
+        },
+        {
+          "tag": "brassiere",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "dumbbell",
+          "confidence": "2.95%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0013",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "473x474",
+      "last_analyzed": "2025-05-13T08:38:28.184054",
+      "file_size": 25805
+    },
+    "img4_0014.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "9.01%"
+        },
+        {
+          "tag": "bathing cap",
+          "confidence": "8.88%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "3.57%"
+        },
+        {
+          "tag": "jean",
+          "confidence": "3.44%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "2.87%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0014",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x474",
+      "last_analyzed": "2025-05-13T08:38:28.372466",
+      "file_size": 23201
+    },
+    "img4_0015.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bow",
+          "confidence": "21.39%"
+        },
+        {
+          "tag": "sandal",
+          "confidence": "3.34%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "2.07%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "1.04%"
+        },
+        {
+          "tag": "brassiere",
+          "confidence": "0.43%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0015",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x711",
+      "last_analyzed": "2025-05-13T08:38:28.582692",
+      "file_size": 25212
+    },
+    "img4_0016.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "sarong",
+          "confidence": "16.51%"
+        },
+        {
+          "tag": "gown",
+          "confidence": "14.26%"
+        },
+        {
+          "tag": "overskirt",
+          "confidence": "8.29%"
+        },
+        {
+          "tag": "stole",
+          "confidence": "4.00%"
+        },
+        {
+          "tag": "hoopskirt",
+          "confidence": "2.81%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0016",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "400x600",
+      "last_analyzed": "2025-05-13T08:38:28.762980",
+      "file_size": 32074
+    },
+    "img4_0017.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot tank suit",
+          "confidence": "5.21%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "4.36%"
+        },
+        {
+          "tag": "swimming trunks",
+          "confidence": "2.74%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "2.66%"
+        },
+        {
+          "tag": "brassiere",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "white",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0017",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "white",
+      "dimensions": "474x561",
+      "last_analyzed": "2025-05-13T08:38:28.908507",
+      "file_size": 27101
+    },
+    "img4_0018.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "9.03%"
+        },
+        {
+          "tag": "feather boa",
+          "confidence": "8.22%"
+        },
+        {
+          "tag": "shower curtain",
+          "confidence": "6.43%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "6.43%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "3.17%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0018",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "473x530",
+      "last_analyzed": "2025-05-13T08:38:29.094314",
+      "file_size": 36773
+    },
+    "img4_0019.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot tank suit",
+          "confidence": "16.58%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "13.98%"
+        },
+        {
+          "tag": "bathing cap",
+          "confidence": "3.62%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "3.17%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "3.07%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0019",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x713",
+      "last_analyzed": "2025-05-13T08:38:29.317504",
+      "file_size": 49714
+    },
+    "img4_0020.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "horizontal bar",
+          "confidence": "14.27%"
+        },
+        {
+          "tag": "volleyball",
+          "confidence": "11.76%"
+        },
+        {
+          "tag": "bow",
+          "confidence": "8.61%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "8.35%"
+        },
+        {
+          "tag": "racket",
+          "confidence": "3.00%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0020",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x661",
+      "last_analyzed": "2025-05-13T08:38:29.552089",
+      "file_size": 52022
+    },
+    "img4_0021.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "14.60%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "12.82%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "7.81%"
+        },
+        {
+          "tag": "crutch",
+          "confidence": "3.48%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "2.91%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0021",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "473x547",
+      "last_analyzed": "2025-05-13T08:38:29.745677",
+      "file_size": 33959
+    },
+    "img4_0022.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "theater curtain",
+          "confidence": "25.08%"
+        },
+        {
+          "tag": "velvet",
+          "confidence": "2.46%"
+        },
+        {
+          "tag": "gown",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "throne",
+          "confidence": "1.54%"
+        },
+        {
+          "tag": "cloak",
+          "confidence": "1.00%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0022",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "427x640",
+      "last_analyzed": "2025-05-13T08:38:29.952706",
+      "file_size": 38722
+    },
+    "img4_0023.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "16.16%"
+        },
+        {
+          "tag": "pole",
+          "confidence": "7.30%"
+        },
+        {
+          "tag": "sandal",
+          "confidence": "3.85%"
+        },
+        {
+          "tag": "knee pad",
+          "confidence": "3.19%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "2.10%"
+        },
+        {
+          "tag": "purple",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0023",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "purple",
+      "dimensions": "340x364",
+      "last_analyzed": "2025-05-13T08:38:30.156498",
+      "file_size": 24984
+    },
+    "img4_0024.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "maillot",
+          "confidence": "60.75%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "4.61%"
+        },
+        {
+          "tag": "bikini",
+          "confidence": "2.08%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "1.03%"
+        },
+        {
+          "tag": "sombrero",
+          "confidence": "0.59%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0024",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "327x500",
+      "last_analyzed": "2025-05-13T08:38:30.352996",
+      "file_size": 16104
+    },
+    "img4_0025.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "pole",
+          "confidence": "18.81%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "14.83%"
+        },
+        {
+          "tag": "miniskirt",
+          "confidence": "14.47%"
+        },
+        {
+          "tag": "brassiere",
+          "confidence": "2.32%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "1.36%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0025",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x624",
+      "last_analyzed": "2025-05-13T08:38:30.548311",
+      "file_size": 31803
+    },
+    "img4_0026.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "7.75%"
+        },
+        {
+          "tag": "bathing cap",
+          "confidence": "7.13%"
+        },
+        {
+          "tag": "zebra",
+          "confidence": "3.23%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "1.48%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "1.11%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0026",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "474x842",
+      "last_analyzed": "2025-05-13T08:38:30.767592",
+      "file_size": 47266
+    },
+    "img4_0027.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "pole",
+          "confidence": "15.74%"
+        },
+        {
+          "tag": "maillot",
+          "confidence": "11.98%"
+        },
+        {
+          "tag": "knee pad",
+          "confidence": "3.68%"
+        },
+        {
+          "tag": "sandal",
+          "confidence": "2.84%"
+        },
+        {
+          "tag": "brassiere",
+          "confidence": "2.34%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0027",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "474x627",
+      "last_analyzed": "2025-05-13T08:38:30.988573",
+      "file_size": 24153
+    },
+    "img4_0028.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stole",
+          "confidence": "5.67%"
+        },
+        {
+          "tag": "green mamba",
+          "confidence": "4.08%"
+        },
+        {
+          "tag": "velvet",
+          "confidence": "3.34%"
+        },
+        {
+          "tag": "green snake",
+          "confidence": "2.68%"
+        },
+        {
+          "tag": "wig",
+          "confidence": "2.44%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0028",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "400x400",
+      "last_analyzed": "2025-05-13T08:38:31.263655",
+      "file_size": 48995
+    },
+    "img4_0029.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bikini",
+          "confidence": "16.99%"
+        },
+        {
+          "tag": "diaper",
+          "confidence": "5.01%"
+        },
+        {
+          "tag": "maillot tank suit",
+          "confidence": "3.71%"
+        },
+        {
+          "tag": "parallel bars",
+          "confidence": "2.96%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "2.73%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0029",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x599",
+      "last_analyzed": "2025-05-13T08:38:31.498861",
+      "file_size": 24791
+    },
+    "img4_0030.jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stretcher",
+          "confidence": "2.92%"
+        },
+        {
+          "tag": "balance beam",
+          "confidence": "2.03%"
+        },
+        {
+          "tag": "acorn squash",
+          "confidence": "1.56%"
+        },
+        {
+          "tag": "hammer",
+          "confidence": "1.39%"
+        },
+        {
+          "tag": "jean",
+          "confidence": "1.22%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "img4_0030",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "474x842",
+      "last_analyzed": "2025-05-13T08:38:31.784526",
+      "file_size": 58580
+    },
+    "powerful_people (1).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "25.15%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "22.73%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.84%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.94%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.80%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (1)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:31.967533",
+      "file_size": 16439
+    },
+    "powerful_people (10).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "28.08%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "13.79%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.75%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.32%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.94%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (10)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:32.142445",
+      "file_size": 18298
+    },
+    "powerful_people (11).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "51.46%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "18.18%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.98%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.64%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.48%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (11)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:32.322799",
+      "file_size": 16525
+    },
+    "powerful_people (12).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "39.05%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "16.11%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "0.82%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.78%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.73%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (12)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:32.506083",
+      "file_size": 12293
+    },
+    "powerful_people (13).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "5.99%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "3.23%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.15%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "1.94%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "1.92%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (13)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:32.712739",
+      "file_size": 18482
+    },
+    "powerful_people (14).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "13.00%"
+        },
+        {
+          "tag": "chain",
+          "confidence": "6.25%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.64%"
+        },
+        {
+          "tag": "chain mail",
+          "confidence": "1.77%"
+        },
+        {
+          "tag": "wig",
+          "confidence": "1.61%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (14)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:32.902937",
+      "file_size": 23524
+    },
+    "powerful_people (15).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "38.32%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "13.57%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "2.39%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.74%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "1.04%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (15)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:33.082336",
+      "file_size": 14952
+    },
+    "powerful_people (16).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "potter's wheel",
+          "confidence": "7.47%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "4.89%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.72%"
+        },
+        {
+          "tag": "hand-held computer",
+          "confidence": "3.36%"
+        },
+        {
+          "tag": "nipple",
+          "confidence": "1.05%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (16)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:33.242202",
+      "file_size": 23302
+    },
+    "powerful_people (17).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "academic gown",
+          "confidence": "5.81%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "4.73%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.40%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "2.95%"
+        },
+        {
+          "tag": "neck brace",
+          "confidence": "1.89%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (17)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:33.407992",
+      "file_size": 15152
+    },
+    "powerful_people (18).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "20.37%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "14.95%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.19%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "bulletproof vest",
+          "confidence": "1.59%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (18)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:33.567186",
+      "file_size": 15044
+    },
+    "powerful_people (19).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "oboe",
+          "confidence": "7.92%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "5.31%"
+        },
+        {
+          "tag": "sax",
+          "confidence": "2.50%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "2.31%"
+        },
+        {
+          "tag": "cello",
+          "confidence": "2.30%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (19)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:33.725915",
+      "file_size": 14283
+    },
+    "powerful_people (2).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "25.77%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "20.73%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.25%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.74%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "0.47%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (2)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:33.924291",
+      "file_size": 22398
+    },
+    "powerful_people (20).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "20.95%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "9.54%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "5.71%"
+        },
+        {
+          "tag": "military uniform",
+          "confidence": "2.06%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.69%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (20)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:34.070962",
+      "file_size": 23115
+    },
+    "powerful_people (21).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "32.85%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "24.66%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.15%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.87%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "0.65%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (21)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:34.234518",
+      "file_size": 16728
+    },
+    "powerful_people (22).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "18.22%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "11.10%"
+        },
+        {
+          "tag": "military uniform",
+          "confidence": "1.65%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "1.17%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.07%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (22)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:34.402913",
+      "file_size": 15566
+    },
+    "powerful_people (23).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "42.30%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "14.57%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.79%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "1.37%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (23)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:34.563796",
+      "file_size": 15463
+    },
+    "powerful_people (24).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lab coat",
+          "confidence": "9.19%"
+        },
+        {
+          "tag": "bulletproof vest",
+          "confidence": "5.46%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.27%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "1.80%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "1.71%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (24)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "416x277",
+      "last_analyzed": "2025-05-13T08:38:36.078121",
+      "file_size": 11452
+    },
+    "powerful_people (25).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "17.13%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "6.65%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "4.52%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.68%"
+        },
+        {
+          "tag": "stethoscope",
+          "confidence": "3.28%"
+        },
+        {
+          "tag": "pink",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (25)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "pink",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:36.235924",
+      "file_size": 18505
+    },
+    "powerful_people (26).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "26.86%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "26.01%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.78%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "0.88%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "0.79%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (26)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:36.402515",
+      "file_size": 13887
+    },
+    "powerful_people (27).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "29.11%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "26.09%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "1.09%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.07%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.02%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (27)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:36.558690",
+      "file_size": 14797
+    },
+    "powerful_people (28).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "17.08%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "16.45%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "3.24%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "2.20%"
+        },
+        {
+          "tag": "academic gown",
+          "confidence": "1.22%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (28)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:36.721511",
+      "file_size": 23998
+    },
+    "powerful_people (29).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lab coat",
+          "confidence": "27.48%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "2.30%"
+        },
+        {
+          "tag": "beaker",
+          "confidence": "1.46%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.13%"
+        },
+        {
+          "tag": "Petri dish",
+          "confidence": "1.00%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (29)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:36.895107",
+      "file_size": 14179
+    },
+    "powerful_people (3).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "24.21%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "22.51%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.50%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.47%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "0.43%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (3)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.036233",
+      "file_size": 17264
+    },
+    "powerful_people (30).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "38.87%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "9.87%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.06%"
+        },
+        {
+          "tag": "television",
+          "confidence": "0.70%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.52%"
+        },
+        {
+          "tag": "purple",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (30)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "purple",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.204344",
+      "file_size": 16818
+    },
+    "powerful_people (31).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "10.66%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "8.15%"
+        },
+        {
+          "tag": "Sussex spaniel",
+          "confidence": "2.08%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.67%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "1.38%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (31)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.354594",
+      "file_size": 19955
+    },
+    "powerful_people (32).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "18.64%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "6.42%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "3.12%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.08%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "1.62%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (32)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.514071",
+      "file_size": 16133
+    },
+    "powerful_people (33).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "9.59%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "4.30%"
+        },
+        {
+          "tag": "stage",
+          "confidence": "4.09%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "2.46%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.13%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (33)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.665249",
+      "file_size": 24243
+    },
+    "powerful_people (34).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "31.40%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "22.37%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.58%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.43%"
+        },
+        {
+          "tag": "military uniform",
+          "confidence": "0.40%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (34)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.819196",
+      "file_size": 18531
+    },
+    "powerful_people (35).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "30.93%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "4.68%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.71%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "3.09%"
+        },
+        {
+          "tag": "bulletproof vest",
+          "confidence": "2.99%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (35)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:37.973619",
+      "file_size": 15841
+    },
+    "powerful_people (36).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "ping-pong ball",
+          "confidence": "7.26%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "2.82%"
+        },
+        {
+          "tag": "volleyball",
+          "confidence": "2.78%"
+        },
+        {
+          "tag": "basketball",
+          "confidence": "2.76%"
+        },
+        {
+          "tag": "ballplayer",
+          "confidence": "2.22%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (36)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:38.139765",
+      "file_size": 12616
+    },
+    "powerful_people (37).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "32.43%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "8.77%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.23%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "1.51%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "1.35%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (37)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:38.289349",
+      "file_size": 20512
+    },
+    "powerful_people (38).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "24.35%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "22.44%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "0.81%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "0.80%"
+        },
+        {
+          "tag": "military uniform",
+          "confidence": "0.58%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (38)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:38.451159",
+      "file_size": 14801
+    },
+    "powerful_people (39).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "14.51%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "7.15%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "6.86%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "5.92%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "4.35%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (39)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:38.607404",
+      "file_size": 18170
+    },
+    "powerful_people (4).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "sweatshirt",
+          "confidence": "4.61%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "4.48%"
+        },
+        {
+          "tag": "jersey",
+          "confidence": "3.66%"
+        },
+        {
+          "tag": "cardigan",
+          "confidence": "3.29%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "2.48%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (4)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:38.764748",
+      "file_size": 17108
+    },
+    "powerful_people (40).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "25.14%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "12.18%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "5.33%"
+        },
+        {
+          "tag": "hand-held computer",
+          "confidence": "2.14%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "1.34%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (40)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:38.936342",
+      "file_size": 19803
+    },
+    "powerful_people (41).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "52.02%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "20.66%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.40%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "1.04%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "0.72%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (41)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:39.088386",
+      "file_size": 13421
+    },
+    "powerful_people (42).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "32.85%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "15.75%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "2.17%"
+        },
+        {
+          "tag": "Loafer",
+          "confidence": "0.86%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.68%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (42)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:39.256073",
+      "file_size": 23735
+    },
+    "powerful_people (43).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "vestment",
+          "confidence": "11.41%"
+        },
+        {
+          "tag": "cardigan",
+          "confidence": "5.86%"
+        },
+        {
+          "tag": "abaya",
+          "confidence": "3.00%"
+        },
+        {
+          "tag": "stole",
+          "confidence": "2.39%"
+        },
+        {
+          "tag": "academic gown",
+          "confidence": "1.09%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (43)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:39.442577",
+      "file_size": 23123
+    },
+    "powerful_people (44).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lab coat",
+          "confidence": "4.17%"
+        },
+        {
+          "tag": "academic gown",
+          "confidence": "3.56%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "3.47%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.41%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.11%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (44)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:39.595141",
+      "file_size": 17086
+    },
+    "powerful_people (45).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "27.65%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "25.02%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.19%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.67%"
+        },
+        {
+          "tag": "academic gown",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (45)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:39.737702",
+      "file_size": 15707
+    },
+    "powerful_people (46).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "18.62%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "17.08%"
+        },
+        {
+          "tag": "academic gown",
+          "confidence": "3.77%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "3.50%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "1.21%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (46)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:39.896526",
+      "file_size": 23283
+    },
+    "powerful_people (47).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "18.05%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "9.08%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "2.64%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.12%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.95%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (47)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:40.050718",
+      "file_size": 15053
+    },
+    "powerful_people (48).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "32.96%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "12.89%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.04%"
+        },
+        {
+          "tag": "military uniform",
+          "confidence": "1.04%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "0.94%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (48)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:40.224594",
+      "file_size": 15950
+    },
+    "powerful_people (49).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "sweatshirt",
+          "confidence": "2.90%"
+        },
+        {
+          "tag": "tench",
+          "confidence": "1.44%"
+        },
+        {
+          "tag": "bulletproof vest",
+          "confidence": "1.20%"
+        },
+        {
+          "tag": "hammer",
+          "confidence": "1.14%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "1.09%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (49)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:40.381571",
+      "file_size": 20027
+    },
+    "powerful_people (5).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "5.18%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "4.91%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "3.32%"
+        },
+        {
+          "tag": "wool",
+          "confidence": "1.92%"
+        },
+        {
+          "tag": "bulletproof vest",
+          "confidence": "1.48%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (5)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "415x416",
+      "last_analyzed": "2025-05-13T08:38:40.529925",
+      "file_size": 12212
+    },
+    "powerful_people (50).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "32.56%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "25.61%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.75%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "1.58%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "1.03%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (50)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:40.685852",
+      "file_size": 16733
+    },
+    "powerful_people (51).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "39.48%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "19.08%"
+        },
+        {
+          "tag": "microphone",
+          "confidence": "0.57%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.53%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "0.50%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (51)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:40.846163",
+      "file_size": 19383
+    },
+    "powerful_people (52).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "dumbbell",
+          "confidence": "16.63%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "6.48%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "5.13%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "2.93%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "2.60%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (52)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:41.016504",
+      "file_size": 19632
+    },
+    "powerful_people (53).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "academic gown",
+          "confidence": "3.99%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "2.58%"
+        },
+        {
+          "tag": "jersey",
+          "confidence": "2.53%"
+        },
+        {
+          "tag": "rapeseed",
+          "confidence": "2.38%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "2.26%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (53)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:41.181385",
+      "file_size": 27525
+    },
+    "powerful_people (54).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "20.47%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "19.43%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.00%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.92%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.59%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (54)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:41.358202",
+      "file_size": 20321
+    },
+    "powerful_people (55).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "31.59%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "22.73%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "2.15%"
+        },
+        {
+          "tag": "sax",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "microphone",
+          "confidence": "0.47%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (55)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:41.505733",
+      "file_size": 16904
+    },
+    "powerful_people (56).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "18.38%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "7.35%"
+        },
+        {
+          "tag": "pick",
+          "confidence": "3.39%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "2.46%"
+        },
+        {
+          "tag": "sax",
+          "confidence": "2.40%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (56)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:41.647385",
+      "file_size": 14529
+    },
+    "powerful_people (57).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "21.48%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "18.47%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "5.89%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "4.50%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "3.05%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (57)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:41.814237",
+      "file_size": 14677
+    },
+    "powerful_people (58).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "48.51%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "8.86%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.27%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.74%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "0.66%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (58)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:41.972499",
+      "file_size": 14485
+    },
+    "powerful_people (59).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "47.01%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "11.89%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.77%"
+        },
+        {
+          "tag": "sax",
+          "confidence": "1.56%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "1.32%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (59)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:42.129475",
+      "file_size": 15260
+    },
+    "powerful_people (6).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lab coat",
+          "confidence": "8.12%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "3.65%"
+        },
+        {
+          "tag": "vestment",
+          "confidence": "2.86%"
+        },
+        {
+          "tag": "flute",
+          "confidence": "2.44%"
+        },
+        {
+          "tag": "racket",
+          "confidence": "2.02%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (6)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:42.302385",
+      "file_size": 14297
+    },
+    "powerful_people (60).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "16.65%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "8.90%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "5.92%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "1.81%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "1.20%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (60)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:42.473962",
+      "file_size": 18914
+    },
+    "powerful_people (61).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "33.80%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "23.39%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.85%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "0.83%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "0.78%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (61)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:42.638218",
+      "file_size": 18016
+    },
+    "powerful_people (62).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "25.15%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "24.81%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.61%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "2.32%"
+        },
+        {
+          "tag": "French horn",
+          "confidence": "1.00%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (62)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:42.787469",
+      "file_size": 15687
+    },
+    "powerful_people (63).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "academic gown",
+          "confidence": "15.32%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "9.76%"
+        },
+        {
+          "tag": "mortarboard",
+          "confidence": "7.18%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.04%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "1.64%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (63)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:42.947236",
+      "file_size": 12151
+    },
+    "powerful_people (64).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "16.20%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "13.94%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "7.42%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "4.24%"
+        },
+        {
+          "tag": "French horn",
+          "confidence": "2.88%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (64)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:43.125400",
+      "file_size": 14924
+    },
+    "powerful_people (65).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "23.62%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "9.71%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "2.73%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "2.65%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "2.51%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (65)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:43.281994",
+      "file_size": 17646
+    },
+    "powerful_people (66).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "26.45%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "25.41%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.33%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.31%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "0.29%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (66)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:43.428850",
+      "file_size": 11746
+    },
+    "powerful_people (67).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "19.29%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "16.14%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "4.19%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.06%"
+        },
+        {
+          "tag": "cornet",
+          "confidence": "1.91%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (67)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:43.599181",
+      "file_size": 17477
+    },
+    "powerful_people (68).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "military uniform",
+          "confidence": "20.62%"
+        },
+        {
+          "tag": "tench",
+          "confidence": "1.07%"
+        },
+        {
+          "tag": "rifle",
+          "confidence": "0.97%"
+        },
+        {
+          "tag": "bulletproof vest",
+          "confidence": "0.87%"
+        },
+        {
+          "tag": "barracouta",
+          "confidence": "0.64%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (68)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:43.749155",
+      "file_size": 26140
+    },
+    "powerful_people (69).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "lab coat",
+          "confidence": "9.95%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.25%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "2.29%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "2.09%"
+        },
+        {
+          "tag": "sax",
+          "confidence": "1.86%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (69)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:43.914237",
+      "file_size": 16514
+    },
+    "powerful_people (7).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "7.31%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "5.45%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "4.55%"
+        },
+        {
+          "tag": "notebook",
+          "confidence": "2.93%"
+        },
+        {
+          "tag": "hand-held computer",
+          "confidence": "2.92%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (7)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:44.072943",
+      "file_size": 15705
+    },
+    "powerful_people (70).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "13.33%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.54%"
+        },
+        {
+          "tag": "lab coat",
+          "confidence": "3.12%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.01%"
+        },
+        {
+          "tag": "bassoon",
+          "confidence": "2.44%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (70)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:44.226477",
+      "file_size": 21951
+    },
+    "powerful_people (71).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "18.06%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "11.76%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.71%"
+        },
+        {
+          "tag": "Kerry blue terrier",
+          "confidence": "0.48%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.47%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (71)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:44.422565",
+      "file_size": 34030
+    },
+    "powerful_people (72).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "19.09%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "16.30%"
+        },
+        {
+          "tag": "Loafer",
+          "confidence": "0.52%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.50%"
+        },
+        {
+          "tag": "racket",
+          "confidence": "0.49%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (72)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:44.577410",
+      "file_size": 20658
+    },
+    "powerful_people (73).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "cloak",
+          "confidence": "21.10%"
+        },
+        {
+          "tag": "abaya",
+          "confidence": "3.19%"
+        },
+        {
+          "tag": "vestment",
+          "confidence": "2.86%"
+        },
+        {
+          "tag": "fur coat",
+          "confidence": "1.98%"
+        },
+        {
+          "tag": "bow",
+          "confidence": "1.86%"
+        },
+        {
+          "tag": "black",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (73)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "black",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:44.742926",
+      "file_size": 14088
+    },
+    "powerful_people (74).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "Windsor tie",
+          "confidence": "29.01%"
+        },
+        {
+          "tag": "suit",
+          "confidence": "8.51%"
+        },
+        {
+          "tag": "torch",
+          "confidence": "0.51%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "0.48%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "0.39%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (74)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:44.901647",
+      "file_size": 23847
+    },
+    "powerful_people (75).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "suit",
+          "confidence": "26.11%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "9.16%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "2.22%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "1.74%"
+        },
+        {
+          "tag": "groom",
+          "confidence": "1.62%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (75)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:45.072085",
+      "file_size": 17759
+    },
+    "powerful_people (8).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "stole",
+          "confidence": "6.50%"
+        },
+        {
+          "tag": "cowboy hat",
+          "confidence": "2.43%"
+        },
+        {
+          "tag": "cleaver",
+          "confidence": "1.57%"
+        },
+        {
+          "tag": "sunglasses",
+          "confidence": "1.41%"
+        },
+        {
+          "tag": "bonnet",
+          "confidence": "1.26%"
+        },
+        {
+          "tag": "brown",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (8)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "brown",
+      "dimensions": "416x416",
+      "last_analyzed": "2025-05-13T08:38:45.225845",
+      "file_size": 33114
+    },
+    "powerful_people (9).jpg": {
+      "type": "image",
+      "tags": [
+        {
+          "tag": "bassoon",
+          "confidence": "4.46%"
+        },
+        {
+          "tag": "Windsor tie",
+          "confidence": "3.36%"
+        },
+        {
+          "tag": "oboe",
+          "confidence": "3.06%"
+        },
+        {
+          "tag": "bow tie",
+          "confidence": "2.96%"
+        },
+        {
+          "tag": "academic gown",
+          "confidence": "2.72%"
+        },
+        {
+          "tag": "gray",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "2025",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "may",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "image",
+          "confidence": "100.00%"
+        },
+        {
+          "tag": "powerful_people (9)",
+          "confidence": "100.00%"
+        }
+      ],
+      "color": "gray",
+      "dimensions": "274x416",
+      "last_analyzed": "2025-05-13T08:38:45.418527",
+      "file_size": 18857
+    }
+  }
+}
